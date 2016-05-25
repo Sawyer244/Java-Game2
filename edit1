@@ -1,0 +1,11 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Tetris</title>
+</head>
+<body>
+<script> 
+//constants
+var COLS=26, ROWS=26;
+</script>
+<
